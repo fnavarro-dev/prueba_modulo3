@@ -13,6 +13,6 @@
     <string name="title_activity_fullscreen">FullscreenActivity</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
-    <string name="text_top">Este es el texto que va arriba de la imagen profe, este texto es el más pulento de la vida.</string>
-    <string name="text_bottom">Este es el texto que va abajo de la imagen profe, este texto más pulento que el anterior.</string>
+    <string name="text_top">TÍTULO DE LA APP</string>
+    <string name="text_bottom">Bienvenido a la aplicación no oficial de Jackass</string>
 </resources>
